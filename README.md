@@ -1,9 +1,9 @@
-# Cuckoo Filter
+# cuckoo-filter
 
-Cuckoo Filter — zero-dependency Python implementation.
+Cuckoo filter with deletion support. Single-file Python CLI, zero dependencies.
 
 ## Usage
 
 ```bash
-python3 cuckoo_filter.py demo
+python3 cuckoo_filter.py
 ```
