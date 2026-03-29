@@ -1,11 +1,10 @@
-# cuckoo_filter
+# cuckoo-filter
 
-cuckoo_filter - Cuckoo filter for approximate set membership with deletion.
-
-Zero-dependency, single-file Python CLI.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
 python3 cuckoo_filter.py
+python3 cuckoo_filter.py test
 ```
