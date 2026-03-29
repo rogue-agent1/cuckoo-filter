@@ -1,11 +1,9 @@
-# cuckoo-filter
+# Cuckoo Filter
 
-Cuckoo filter - space-efficient probabilistic set with deletion
+Cuckoo Filter — zero-dependency Python implementation.
 
 ## Usage
 
 ```bash
-python3 cuckoo_filter.py --help
+python3 cuckoo_filter.py demo
 ```
-
-Zero dependencies. Python 3.8+.
